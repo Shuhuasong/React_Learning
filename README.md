@@ -21,9 +21,6 @@
 **Managing a Component Tree
 **React Dependencies & Styling the Keeper App
 
- 
- <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow1.png" width = 600 />
 
- <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow2..png" width = 600 />
  
  <img src = "http://g.recordit.co/2V9yoLie9W.gif" width = 650> <br>
