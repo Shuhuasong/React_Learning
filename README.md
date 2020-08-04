@@ -2,6 +2,8 @@
 
 # React.js
 
+- [JSX Attributes & Styling React Elements]
+
 -[JSX Attributes & Styling React Elements]
 -[Inline Styling for React Elements]
 -[React Components]
