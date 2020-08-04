@@ -1,7 +1,7 @@
 # React_Learning
 
 # React.js
-# Music-App-By-Using-Third-API-Spotify-
+
 **JSX Attributes & Styling React Elements
 **Inline Styling for React Elements
 **React Components
