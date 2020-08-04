@@ -4,7 +4,7 @@
 
 - JSX Attributes & Styling React Elements
 
--[JSX Attributes & Styling React Elements]
+- JSX Attributes & Styling React Elements
 -[Inline Styling for React Elements]
 -[React Components]
 -[Javascript ES6 - Import, Export and Modules]
